@@ -1,0 +1,132 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-07-12",
+  "stories": [
+    {
+      "id": "lion-and-mouse",
+      "title": "ಸಿಂಹ ಮತ್ತು ಇಲಿ",
+      "description": "A classic Panchatantra story about kindness and friendship.",
+      "category": "Panchatantra",
+      "durationMinutes": 8,
+      "youtubeId": "AbCdEf12345",
+      "thumbnail": "https://img.youtube.com/vi/AbCdEf12345/hqdefault.jpg",
+      "language": "Kannada",
+      "recommendedAge": "3-8",
+      "quiz": [
+        {
+          "question": "Who helped the lion?",
+          "options": [
+            "Elephant",
+            "Mouse",
+            "Rabbit",
+            "Fox"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "Why did the mouse help the lion?",
+          "options": [
+            "To get food",
+            "Because they were friends",
+            "To cut the net",
+            "To scare hunters"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "Where was the lion trapped?",
+          "options": [
+            "In a cave",
+            "In a river",
+            "In a hunter's net",
+            "On a tree"
+          ],
+          "correctAnswerIndex": 2
+        },
+        {
+          "question": "What is the moral of the story?",
+          "options": [
+            "Never share",
+            "Kindness is always rewarded",
+            "Always run fast",
+            "Lions are stronger"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "What animal was the hero?",
+          "options": [
+            "Mouse",
+            "Tiger",
+            "Fox",
+            "Bear"
+          ],
+          "correctAnswerIndex": 0
+        }
+      ]
+    },
+    {
+      "id": "clever-rabbit",
+      "title": "ಚತುರ ಮೊಲ",
+      "description": "The clever rabbit defeats a powerful lion using intelligence.",
+      "category": "Animals",
+      "durationMinutes": 7,
+      "youtubeId": "XyZ987654",
+      "thumbnail": "https://img.youtube.com/vi/XyZ987654/hqdefault.jpg",
+      "language": "Kannada",
+      "recommendedAge": "3-8",
+      "quiz": [
+        {
+          "question": "Who was clever?",
+          "options": [
+            "Lion",
+            "Rabbit",
+            "Elephant",
+            "Crow"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "Where did the rabbit trick the lion?",
+          "options": [
+            "Forest",
+            "Well",
+            "River",
+            "Mountain"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "What did the lion see in the well?",
+          "options": [
+            "Another rabbit",
+            "His own reflection",
+            "A tiger",
+            "A snake"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "How did the lion react?",
+          "options": [
+            "Ran away",
+            "Jumped into the well",
+            "Started laughing",
+            "Went home"
+          ],
+          "correctAnswerIndex": 1
+        },
+        {
+          "question": "What is the moral?",
+          "options": [
+            "Strength is everything",
+            "Intelligence beats strength",
+            "Never talk",
+            "Never share"
+          ],
+          "correctAnswerIndex": 1
+        }
+      ]
+    }
+  ]
+}
