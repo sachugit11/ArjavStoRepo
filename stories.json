@@ -14,7 +14,58 @@
       "videoUrl": "https://www.youtube.com/watch?v=C1qRVz_ASUs",
       "thumbnail": "https://img.youtube.com/vi/C1qRVz_ASUs/hqdefault.jpg",
       "difficulty": "Easy",
-      "quiz": []
+      "quiz": [
+  {
+    "question": "Why did Raju's parents leave him at home?",
+    "options": [
+      "They went to the market",
+      "They visited Raju's grandmother because she was sick",
+      "They attended a festival",
+      "They went to buy more chickens"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "What was Raju selling?",
+    "options": [
+      "Milk",
+      "Vegetables",
+      "Eggs",
+      "Fruits"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "What did Raju dream of doing with the money from selling the eggs?",
+    "options": [
+      "Buying a bicycle",
+      "Going to the fair, enjoying games, and buying a toy car",
+      "Building a new house",
+      "Buying more chickens"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "What happened while Raju was daydreaming?",
+    "options": [
+      "He sold all the eggs",
+      "He found more customers",
+      "He tripped over a stone and all the eggs broke",
+      "His parents returned home"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "What is the moral of Raju's story?",
+    "options": [
+      "Always spend your money quickly",
+      "Do not build castles in the air before your plans become real",
+      "Selling eggs is the best business",
+      "Dreaming is more important than working"
+    ],
+    "correctAnswerIndex": 1
+  }
+]
     },
     {
       "id": "kannada-moral-stories-for-kids-magical-shoes-kannada-fairy-tales-koo-koo-tv",
@@ -27,7 +78,58 @@
       "videoUrl": "https://www.youtube.com/watch?v=0LHn6eq1pUw",
       "thumbnail": "https://img.youtube.com/vi/0LHn6eq1pUw/hqdefault.jpg",
       "difficulty": "Easy",
-      "quiz": []
+      "quiz":[
+  {
+    "question": "Why was Bhavika unhappy at the beginning of the story?",
+    "options": [
+      "She did not like going to school",
+      "She could not walk and had no friends",
+      "She lost her homework",
+      "She wanted a new toy"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Who did Bhavika help near the school bench?",
+    "options": [
+      "A puppy",
+      "A kitten",
+      "A baby pigeon",
+      "A rabbit"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "What gift did the mother pigeon give Bhavika?",
+    "options": [
+      "A magic wand",
+      "A golden crown",
+      "A pair of magical golden shoes",
+      "A magic bag"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "What happened when Bhavika wore the magical shoes?",
+    "options": [
+      "She could fly",
+      "She became invisible",
+      "She could walk, run, and won the sports race",
+      "She became the school teacher"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "What is the moral of the story?",
+    "options": [
+      "Magic solves every problem",
+      "Helping others brings kindness and good things in return",
+      "Winning races is the most important thing",
+      "Golden shoes make everyone happy"
+    ],
+    "correctAnswerIndex": 1
+  }
+]
     },
     {
       "id": "kannada-moral-stories-for-kids-kannada-fairy-tales-koo-koo-tv",
@@ -40,7 +142,58 @@
       "videoUrl": "https://www.youtube.com/watch?v=4QG130Gg5VY",
       "thumbnail": "https://img.youtube.com/vi/4QG130Gg5VY/hqdefault.jpg",
       "difficulty": "Easy",
-      "quiz": []
+      "quiz": [
+  {
+    "question": "What special food did the mother hen decide to make for Jackie and Johnny?",
+    "options": [
+      "Pizza",
+      "Cake",
+      "Cookies",
+      "Ice cream"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Which child helped the mother hen with the cake?",
+    "options": [
+      "Jackie",
+      "Johnny",
+      "Both Jackie and Johnny",
+      "Neither of them"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Why did Johnny receive the bigger piece of cake?",
+    "options": [
+      "He was older",
+      "He asked for it first",
+      "He helped his mother prepare the cake",
+      "He was the mother's favorite"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "What did Jackie realize after seeing Johnny's reward?",
+    "options": [
+      "He should eat faster",
+      "He should help with household work",
+      "He should ask for more cake",
+      "He should buy his own cake"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "What is the moral of the story?",
+    "options": [
+      "Always ask for bigger rewards",
+      "Hard work and helping others are rewarded",
+      "Cake should be shared equally every time",
+      "Children should never cook"
+    ],
+    "correctAnswerIndex": 1
+  }
+]
     },
     {
       "id": "kannada-moral-stories-for-kids-the-smart-ox-kannada-fairy-tales-koo-koo-tv",
@@ -53,7 +206,58 @@
       "videoUrl": "https://www.youtube.com/watch?v=bZ_Zbpg34yk",
       "thumbnail": "https://img.youtube.com/vi/bZ_Zbpg34yk/hqdefault.jpg",
       "difficulty": "Easy",
-      "quiz": []
+      "quiz": [
+  {
+    "question": "Why did Jayanta set the old ox Kallu free?",
+    "options": [
+      "Kallu wanted to leave the farm",
+      "Kallu had become old and could no longer work well",
+      "Jayanta bought a new ox",
+      "Kallu was causing trouble"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Where did Kallu decide to live after being set free?",
+    "options": [
+      "On another farm",
+      "In a village",
+      "In a cave near grass and a river",
+      "At the top of a mountain"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "How did Kallu scare the lion away the first time?",
+    "options": [
+      "He chased the lion with his horns",
+      "He hid inside the cave",
+      "He pretended there was a huge animal inside waiting to eat the lion",
+      "He asked other animals for help"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "What did the fox do after the lion ran away?",
+    "options": [
+      "It attacked Kallu",
+      "It convinced the lion to return with it",
+      "It warned all the animals",
+      "It hid in the forest"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "What is the moral of the story?",
+    "options": [
+      "Strength is more important than intelligence",
+      "Always trust strangers",
+      "Use intelligence and stay calm when facing difficulties",
+      "Never live alone"
+    ],
+    "correctAnswerIndex": 2
+  }
+]
     },
     {
       "id": "kannada-moral-stories-for-kids-iruve-mattu-midate-kannada-fairy-tales",
@@ -66,7 +270,58 @@
       "videoUrl": "https://www.youtube.com/watch?v=ZJY50dHNITg",
       "thumbnail": "https://img.youtube.com/vi/ZJY50dHNITg/hqdefault.jpg",
       "difficulty": "Easy",
-      "quiz": []
+      "quiz": [
+  {
+    "question": "What was the ant doing before the rainy season?",
+    "options": [
+      "Playing all day",
+      "Collecting and storing food",
+      "Building a new house",
+      "Looking for friends"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "What did the grasshopper do while the ant was working?",
+    "options": [
+      "Helped the ant collect food",
+      "Stored food for winter",
+      "Played around and made fun of the ant",
+      "Built a shelter"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "What happened when the rainy season arrived?",
+    "options": [
+      "The grasshopper had plenty of food",
+      "The ant ran out of food",
+      "The grasshopper could not find food and became hungry",
+      "The ant left the forest"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "How did the ant respond when the hungry grasshopper asked for help?",
+    "options": [
+      "The ant refused to help",
+      "The ant shared its stored food",
+      "The ant chased the grasshopper away",
+      "The ant asked the grasshopper to leave the forest"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "What is the moral of the story?",
+    "options": [
+      "Playing is better than working",
+      "Always depend on others",
+      "Work hard, plan ahead, and save for the future",
+      "Never help your friends"
+    ],
+    "correctAnswerIndex": 2
+  }
+]
     },
     {
       "id": "kannada-moral-stories-for-kids-two-headed-bird-kannada-fairy-tales",
@@ -79,7 +334,58 @@
       "videoUrl": "https://www.youtube.com/watch?v=09DLBBtKhmw",
       "thumbnail": "https://img.youtube.com/vi/09DLBBtKhmw/hqdefault.jpg",
       "difficulty": "Easy",
-      "quiz": []
+      "quiz": [
+  {
+    "question": "Why did the animals make fun of the two-headed bird?",
+    "options": [
+      "It could not fly",
+      "It had two heads sharing one body",
+      "It was very small",
+      "It was afraid of other birds"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "Why did one head refuse to share the tasty fruit with the other head?",
+    "options": [
+      "The fruit was poisonous",
+      "It wanted to save it for later",
+      "It believed only it deserved to enjoy the taste",
+      "The other head was asleep"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "What did the second head do to get revenge?",
+    "options": [
+      "It flew away",
+      "It ate a poisonous fruit",
+      "It asked other birds for help",
+      "It destroyed the nest"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "question": "What happened after the second head ate the poisonous fruit?",
+    "options": [
+      "Only the second head became sick",
+      "The bird became stronger",
+      "The entire bird died because both heads shared one body",
+      "Nothing happened"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "question": "What is the moral of the story?",
+    "options": [
+      "Revenge only harms others",
+      "Unity and cooperation are important because selfishness hurts everyone",
+      "Never eat fruit from the forest",
+      "Being different is always a disadvantage"
+    ],
+    "correctAnswerIndex": 1
+  }
+]
     }
   ]
 }
