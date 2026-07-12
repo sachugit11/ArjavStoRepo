@@ -1,7 +1,4 @@
-{
-  "version": 1,
-  "title": "About Me",
-  "photos": [
+[
     {
       "title": "Me",
       "description": "Hi! I'm Arjav.",
@@ -22,5 +19,4 @@
       "description": "We together the power house.",
       "imageUrl": "https://raw.githubusercontent.com/sachugit11/ArjavStoRepo/main/images/grandma.png"
     }
-  ]
-}
+]
