@@ -5,22 +5,22 @@
     {
       "title": "Me",
       "description": "Hi! I'm Arjav.",
-      "imageUrl": "https://raw.githubusercontent.com/sachugit11/ArjavStoRepo/main/images/me.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/sachugit11/ArjavStoRepo/main/images/me.png"
     },
     {
       "title": "My Brother Swastik",
       "description": "My best friend.",
-      "imageUrl": "https://raw.githubusercontent.com/sachugit11/ArjavStoRepo/main/images/swastik.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/sachugit11/ArjavStoRepo/main/images/swastik.png"
     },
     {
       "title": "My Family",
       "description": "We love spending time together.",
-      "imageUrl": "https://raw.githubusercontent.com/sachugit11/ArjavStoRepo/main/images/family.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/sachugit11/ArjavStoRepo/main/images/family.png"
     },
     {
       "title": "Grandma",
       "description": "She tells me wonderful stories.",
-      "imageUrl": "https://raw.githubusercontent.com/sachugit11/ArjavStoRepo/main/images/grandma.jpg"
+      "imageUrl": "https://raw.githubusercontent.com/sachugit11/ArjavStoRepo/main/images/grandma.png"
     }
   ]
 }
