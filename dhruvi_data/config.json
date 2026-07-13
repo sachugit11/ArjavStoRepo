@@ -1,0 +1,95 @@
+{
+  "app_title": "Dhruvi ❤️ Dhruvik",
+  "app_subtitle": "Our Beautiful Journey",
+  "music_url": "https://raw.githubusercontent.com/sachugit11/ArjavStoRepo/main/dhruvi_data/images/music.mp3",
+  "dhruvi": {
+    "name": "DHRUVI",
+    "born_date": "13 July 2025",
+    "born_time": "10:32 AM",
+    "nickname": "Dhruvi",
+    "fav_color": "Pink",
+    "fav_toy": "Teddy Bear",
+    "fav_food": "Milk",
+    "personality": ["Curious", "Happy", "Energetic ❤️"],
+    "hero_image": "https://raw.githubusercontent.com/sachugit11/ArjavStoRepo/main/dhruvi_data/images/dhruvi4.png",
+    "slides": [
+      {
+        "image": "https://raw.githubusercontent.com/sachugit11/ArjavStoRepo/main/dhruvi_data/images/dhruvi1.png",
+        "tagline": "Is this matching one?"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/sachugit11/ArjavStoRepo/main/dhruvi_data/images/dhruvi2.png",
+        "tagline": "Let me see what's inside"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/sachugit11/ArjavStoRepo/main/dhruvi_data/images/dhruvi3.png",
+        "tagline": "Hey, it's my day"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/sachugit11/ArjavStoRepo/main/dhruvi_data/images/dhruvi4.png",
+        "tagline": "Musical day out"
+      }
+    ],
+    "final_message": "Happy Birthday Dhruvi ❤️\n\nMay your life always be\nfilled with happiness,\ngood health,\nkindness,\nand endless dreams.\n\nLove you forever."
+  },
+  "dhruvik": {
+    "name": "DHRUVIK",
+    "born_date": "13 July 2025",
+    "born_time": "10:33 AM",
+    "nickname": "Dhruvik",
+    "fav_color": "Blue",
+    "fav_toy": "Cars",
+    "fav_food": "Banana",
+    "personality": ["Excited", "Smiling", "Exploring ❤️"],
+    "hero_image": "https://raw.githubusercontent.com/sachugit11/ArjavStoRepo/main/dhruvi_data/images/dhruvik4.png",
+    "slides": [
+      {
+        "image": "https://raw.githubusercontent.com/sachugit11/ArjavStoRepo/main/dhruvi_data/images/dhruvik1.png",
+        "tagline": "I'm relaxing now!"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/sachugit11/ArjavStoRepo/main/dhruvi_data/images/dhruvik2.png",
+        "tagline": "What's up Dude"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/sachugit11/ArjavStoRepo/main/dhruvi_data/images/dhruvik3.png",
+        "tagline": "Smiling is the way"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/sachugit11/ArjavStoRepo/main/dhruvi_data/images/dhruvik4.png",
+        "tagline": "Celebtrations day!"
+      }
+    ],
+    "final_message": "Happy Birthday Dhruvik ❤️\n\nMay your life always be\nfilled with happiness,\ngood health,\nkindness,\nand endless dreams.\n\nLove you forever."
+  },
+  "besties": {
+    "title": "Little Besties",
+    "hero_image": "https://raw.githubusercontent.com/sachugit11/ArjavStoRepo/main/dhruvi_data/images/both1.png",
+    "intro_title": "The Beginning ❤️",
+    "intro_text": "Two little miracles\nentered our lives.\n\nOur hearts became fuller\nthe day you both arrived.",
+    "slides": [
+      
+      {
+        "image": "https://raw.githubusercontent.com/sachugit11/ArjavStoRepo/main/dhruvi_data/images/both2.png",
+        "tagline": "IPL Season, don't disturb"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/sachugit11/ArjavStoRepo/main/dhruvi_data/images/both3.png",
+        "tagline": "We are innocent!"
+      },
+      {
+        "image": "https://raw.githubusercontent.com/sachugit11/ArjavStoRepo/main/dhruvi_data/images/both1.png",
+        "tagline": "A colourful day"
+      }
+    ],
+    "final_title": "Best Friends Forever ❤️",
+    "final_text": "May you always\nprotect,\nsupport,\nlove,\nand stand beside each other.\n\nLife is more beautiful\nwhen travelled together."
+  },
+  "parents": {
+    "title": "About Us",
+    "hero_image": "https://raw.githubusercontent.com/sachugit11/ArjavStoRepo/main/dhruvi_data/images/parents.png",
+    "mother_name": "Bhagyashree",
+    "father_name": "Anand",
+    "message": "Watching both of you grow\nhas been the greatest blessing\nof our lives.\n\nEvery smile,\nevery laugh,\nevery tiny milestone\nhas filled our hearts\nwith endless joy.\n\nNo matter how old you become,\nyou will always be\nour little miracles.\n\nWith endless love,\n\nMom ❤️ Dad"
+  }
+}
